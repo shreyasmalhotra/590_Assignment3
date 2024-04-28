@@ -1,1 +1,2 @@
 To run this code, uncomment all of the print statements that are commented out throughout the files. Also uncomment all code that is commented that provides functionality. Run files one at a time for best results. Re-comment print and save statemets after running file. Additionally, adjust the file paths as needed. Run files one at a time for the best results.
+Additionally, data and src folders must be uncompressed to access files within (due to error uploading/pushing uncompressed files).
